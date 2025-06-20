@@ -1,0 +1,219 @@
+body {
+    font-family: "Oswald", sans-serif;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.login a.log {
+    background-color: #ff5200;
+    color: #fff;
+    border: 1px solid #ff5200;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.login a.sign {
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: transparent;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.login a {
+    margin-left: 20px;
+}
+
+.slider-section .carousel-inner .carousel-item img {
+    height: 85vh;
+    object-fit: cover;
+}
+
+.heading h2 {
+    text-align: center;
+    padding-bottom: 60px;
+}
+
+.service-section {
+    padding-top: 80px;
+}
+
+.box {
+    border: 1px solid gray;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.box i {
+    font-size: 40px;
+    color: #ff5200;
+    padding-bottom: 30px;
+    display: block;
+}
+
+.box h1 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.box p {
+    font-size: 15px;
+    color: gray;
+    line-height: 30px;
+}
+
+.service-all {
+    text-align: center;
+    padding: 20px;
+}
+
+.service-all .button {
+    background-color: #ff5200;
+    color: #fff;
+    border: 1px solid #ff5200;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.work-section .owl-carousel .item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.logo-section .headd {
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.logo-section .headdd {
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.logo-section .container .row {
+    height: fit-content;
+    object-fit: cover;
+}
+
+.body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f8fc;
+}
+
+.services-section {
+    padding: 60px 20px;
+}
+
+.services-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 60px;
+}
+
+.service-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.icon img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    color: #ff5f2e;
+}
+
+.content h4 {
+    font-size: 18px;
+    margin: 0 0 10px;
+    color: #ffffff;
+}
+
+.content p {
+    font-size: 15px;
+}
+
+.services-section .service-icon {
+    font-size: 2.5rem;
+    color: #ff7b00;
+}
+.site-footer {
+    background-color: #111;
+    color: #fff;
+    padding: 60px 0 30px;
+    font-size: 15px;
+}
+
+.site-footer .footer-logo {
+    max-width: 120px;
+    margin-bottom: 15px;
+}
+
+.site-footer .footer-title {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.site-footer .footer-text {
+    margin-top: 10px;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #fff;
+}
+
+.footer-social-icons a {
+    color: #ccc;
+    font-size: 1.5rem;
+    margin-right: 15px;
+    transition: color 0.3s;
+}
+
+.footer-social-icons a:hover {
+    color: #fff;
+}
+
+.footer-divider {
+    border-top: 1px solid #333;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.footer-section .copyright {
+    font-size: 14px;
+    color: #888;
+}
